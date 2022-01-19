@@ -1,0 +1,21 @@
+
+body {
+    margin: 200px auto;
+}
+.header {
+    font-size: 30px;
+    margin: 0 auto;
+    text-align: center;
+    border: black 1px solid;
+    padding: 20px;
+}
+.main {
+    height: auto;
+    width: 70%;
+    border: black 1px solid;
+    margin: 0 auto;
+}
+
+li {
+    background-color: lightgray;
+}
